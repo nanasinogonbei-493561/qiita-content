@@ -1,7 +1,7 @@
 ---
 title: ファイルの頭文字の小文字から大文字に変更したファイルをGit操作でGit及びGitHubに反映させる方法
 tags:
-  - 'Git', 'GitHub'
+  - 'Git''GitHub'
 private: false
 updated_at: ''
 id: null
@@ -9,7 +9,7 @@ organization_url_name: null
 slide: false
 ignorePublish: false
 ---
-# new article body
+# ファイルの頭文字の小文字から大文字に変更したファイルをGit操作でGit及びGitHubに反映させる方法
 Gitでファイル名の頭文字小文字から大文字に変更するには、下記のコマンドが必要みたいです。
 ```diff_*git
  - git mv apiContactController.php ApiContactController.php
